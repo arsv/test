@@ -1,0 +1,9 @@
+Plaintext alignment test.
+
+    +-------------------------------+
+    |                               |
+    |  This box should be indented  |
+    |                               |
+    +-------------------------------+
+
+Link test: https://try.gogs.io
